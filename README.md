@@ -30,7 +30,7 @@ Below is the overview page from the powerbi dashboard and more examples are incl
 * Average order value saw a year over year increase which can be attributed to an increased share of high-cost computers, camera and camcorder orders.
 *	The order volume saw a year over year increase as well as the total revenue.
   
-[![Your Image Alt Text](https://github.com/den-yefa/Sale-s-Performance-Project/blob/43275aae23c587283cd76e48c473bfbebbcff2c6/Images/report.png)
+[![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/report.png)
 
 ## Product Performance
 * The products spread across different categories but the top three selling category in term of total revenue, order volume is Computers, Cell phone and Television. 
