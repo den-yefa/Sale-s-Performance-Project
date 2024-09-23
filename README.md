@@ -1,4 +1,4 @@
-# Sale-s-Performance-Project
+# Sales-Performance-Project
 
 # Project Background
 Prime volt is an electronic company that offers wide range of electronic products across all the states in the country through different channel. The company has significant amount of data on its revenue channel such as products, state, promotional efforts and categories. 
