@@ -20,7 +20,7 @@ Despite fluctuations, Prime Volt sales seem relatively stable year over year, wi
 
 The following sections will explore additional contributing factors and highlight key opportunity area for improvement.
 
-[![Your Image Alt Text](https://github.com/den-yefa/Sale-s-Performance-Project/blob/5f40f99b232c0958874a4338dc62e8eede9f624e/Images/overview.png)
+[![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/overview.png)
 
 Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 
