@@ -5,8 +5,8 @@ Prime volt is an electronic company that offers wide range of electronic product
 This project analyses and synthesizes this data to uncover critical insights that will improve marketing effort and identify opportunity and improvement.
 
 ## Insights and Recommendation are provided on the following key areas:
-*Sales trend analysis: evaluation of historical sales patterns globally, focusing on sales, order volume and average selling price.
-*Product level performance: an analysis of elect various product lines, understanding their impact on sales and returns.
+* Sales trend analysis: evaluation of historical sales patterns globally, focusing on sales, order volume and average selling price.
+* Product level performance: an analysis of elect various product lines, understanding their impact on sales and returns.
 *	Sales promotion success: an assessment of the promotional type and it’s impact on the overall sales.
 *	Regional comparison: An evaluation of sales and orders by region.
 
