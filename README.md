@@ -19,7 +19,7 @@ Targeted SQL queries regarding various business questions can be found here
 Despite fluctuations, Prime Volt sales seem relatively stable year over year, with regular increases during the middle months of each year. The sales trend has shown increase in order volume, revenue and average order value. Peaks appear consistently around July due to the Ramadan promotion. Although the most recent data points indicate a drop in sales towards the end of 2014 which could be a concern in the downturn in sales performance and it could be a signal for further investigations.
 
 The following sections will explore additional contributing factors and highlight key opportunity area for improvement.
-
+[![Your Image Alt Text](https://github.com/den-yefa/Sale-s-Performance-Project/blob/5f40f99b232c0958874a4338dc62e8eede9f624e/Images/overview.png)
 Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 
 ## Sales Trend
