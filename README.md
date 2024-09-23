@@ -29,6 +29,8 @@ Below is the overview page from the powerbi dashboard and more examples are incl
 * Despite the stability in terms of sales over the year. The company hit a sharp drop in revenue towards the end of 2014, with the company just earning over $163k 
 * Average order value saw a year over year increase which can be attributed to an increased share of high-cost computers, camera and camcorder orders.
 *	The order volume saw a year over year increase as well as the total revenue.
+  
+[![Your Image Alt Text](https://github.com/den-yefa/Sale-s-Performance-Project/blob/43275aae23c587283cd76e48c473bfbebbcff2c6/Images/report.png)
 
 ## Product Performance
 * The products spread across different categories but the top three selling category in term of total revenue, order volume is Computers, Cell phone and Television. 
