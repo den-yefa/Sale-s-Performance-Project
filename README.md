@@ -24,7 +24,7 @@ Despite fluctuations, Prime Volt sales seem relatively stable year over year, wi
 
 The following sections will explore additional contributing factors and highlight key opportunity area for improvement.
 
- [Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/overview.png)
+ ![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/overview.png)
 
 Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 
@@ -34,7 +34,7 @@ Below is the overview page from the powerbi dashboard and more examples are incl
 * Average order value saw a year over year increase which can be attributed to an increased share of high-cost computers, camera and camcorder orders.
 *	The order volume saw a year over year increase as well as the total revenue.
   
-[Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/report.png)
+![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/report.png)
 
 ## Product Performance
 * The products spread across different categories but the top three selling category in term of total revenue, order volume is Computers, Cell phone and Television. 
