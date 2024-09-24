@@ -10,23 +10,21 @@ This project analyses and synthesizes this data to uncover critical insights tha
 *	Sales promotion success: an assessment of the promotional type and it’s impact on the overall sales.
 *	Regional comparison: An evaluation of sales and orders by region.
 
-
+  
     The SQL queries utilized to inspect and perform quality checks can be found [here](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/SQL/sales%20quality%20check.sql)
   
     The SQL queries utilized to clean, organize and prepare data for the dashboard can be found [here](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/SQL/Sales%20cleaning%20.sql)
   
     Targeted SQL queries regarding various business questions can be found [here](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/SQL/Sales%20Exploratory%20Analysis.sql) 
-# Data Strucuture and Initial Checks
-Prime Volt database structure as seen below consists of six tables Sales data, channel,promotion,state,category and product. 
 
 # Overview of findings
 Despite fluctuations, Prime Volt sales seem relatively stable year over year, with regular increases during the middle months of each year. The sales trend has shown increase in order volume, revenue and average order value. Peaks appear consistently around July due to the Ramadan promotion. Although the most recent data points indicate a drop in sales towards the end of 2014 which could be a concern in the downturn in sales performance and it could be a signal for further investigations.
 
 The following sections will explore additional contributing factors and highlight key opportunity area for improvement.
 
- ![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/overview.png)
+ ![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/Overview.png)
 
-Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
+Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://app.powerbi.com/groups/me/reports/ecf59513-8c66-465c-9ed7-c54f15cea2c4/bdcd4a3288fd5b98e0f3?experience=power-bi).
 
 ## Sales Trend
 * The company’s sale peaked in October and November 2012 with 14,878 order totalling $4,156,424 in revenue and a slight fluctuation in December consistently in 2012 down to 2014. This trend might be influenced by seasonal factors or promotions not targeting the right audience which goes to show that the Christmas holiday promotions are not hitting the mark.
@@ -34,7 +32,7 @@ Below is the overview page from the powerbi dashboard and more examples are incl
 * Average order value saw a year over year increase which can be attributed to an increased share of high-cost computers, camera and camcorder orders.
 *	The order volume saw a year over year increase as well as the total revenue.
   
-![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/report.png)
+![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/insight.png)
 
 ## Product Performance
 * The products spread across different categories but the top three selling category in term of total revenue, order volume is Computers, Cell phone and Television. 
