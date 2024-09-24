@@ -12,11 +12,11 @@ This project analyses and synthesizes this data to uncover critical insights tha
 
     An interactive Power BI dashboard can be downloaded here
 
-    The SQL queries utilized to inspect and perform quality checks can be found here
+    The SQL queries utilized to inspect and perform quality checks can be found [here](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/SQL/sales%20quality%20check.sql)
   
-    The SQL queries utilized to clean, organize and prepare data for the dashboard can be found here
+    The SQL queries utilized to clean, organize and prepare data for the dashboard can be found [here](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/SQL/Sales%20cleaning%20.sql)
   
-    Targeted SQL queries regarding various business questions can be found here 
+    Targeted SQL queries regarding various business questions can be found [here](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/SQL/Sales%20Exploratory%20Analysis.sql) 
 
 # Overview of findings
 Despite fluctuations, Prime Volt sales seem relatively stable year over year, with regular increases during the middle months of each year. The sales trend has shown increase in order volume, revenue and average order value. Peaks appear consistently around July due to the Ramadan promotion. Although the most recent data points indicate a drop in sales towards the end of 2014 which could be a concern in the downturn in sales performance and it could be a signal for further investigations.
