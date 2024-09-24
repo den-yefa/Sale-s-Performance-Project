@@ -10,7 +10,6 @@ This project analyses and synthesizes this data to uncover critical insights tha
 *	Sales promotion success: an assessment of the promotional type and it’s impact on the overall sales.
 *	Regional comparison: An evaluation of sales and orders by region.
 
-    An interactive Power BI dashboard can be downloaded here
 
     The SQL queries utilized to inspect and perform quality checks can be found [here](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/SQL/sales%20quality%20check.sql)
   
