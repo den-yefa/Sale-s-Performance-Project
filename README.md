@@ -22,9 +22,11 @@ Despite fluctuations, Prime Volt sales seem relatively stable year over year, wi
 
 The following sections will explore additional contributing factors and highlight key opportunity area for improvement.
 
+Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://app.powerbi.com/groups/me/reports/ecf59513-8c66-465c-9ed7-c54f15cea2c4/bdcd4a3288fd5b98e0f3?experience=power-bi).
+
  ![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Sales-Performance-Project/refs/heads/main/Images/Overview.png)
 
-Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://app.powerbi.com/groups/me/reports/ecf59513-8c66-465c-9ed7-c54f15cea2c4/bdcd4a3288fd5b98e0f3?experience=power-bi).
+
 
 ## Sales Trend
 * The company’s sale peaked in October and November 2012 with 14,878 order totalling $4,156,424 in revenue and a slight fluctuation in December consistently in 2012 down to 2014. This trend might be influenced by seasonal factors or promotions not targeting the right audience which goes to show that the Christmas holiday promotions are not hitting the mark.
